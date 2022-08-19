@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="MissingDefaultResource">
+    <item android:id="@+id/item_trang_chu" android:title="Trang chủ" android:icon="@drawable/trang_chu" />
+    <item android:id="@+id/item_sanpham" android:title="Sản Phẩm " android:icon="@drawable/sanpham" />
+    <item android:id="@+id/item_gio_hang" android:title="Giỏ hàng " android:icon="@drawable/gio_hang" />
+    <item android:id="@+id/item_hoa_don" android:title="Hoá đơn " android:icon="@drawable/hoadon" />
+    <item android:id="@+id/item_dang_xuat" android:title="Đăng xuất " android:icon="@drawable/dangxuat" />
+
+</menu>
